@@ -24,6 +24,6 @@ The calculator rounds up because you cannot run a fraction of a copy.
    python -m streamlit run app.py
 
 ## Tech Stack
-Python
-Streamlit
-Pandas
+-Python
+-Streamlit
+-Pandas

@@ -25,6 +25,6 @@ The calculator rounds up because you cannot run a fraction of a copy.
 
 ## Tech Stack
 
-Python
-Streamlit
+Python<br>
+Streamlit<br>
 Pandas

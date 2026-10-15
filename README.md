@@ -5,7 +5,7 @@ A web application that calculates the minimum number of copies of an AI model to
 ## Live App
 https://inference-time-calculator-nuv7xmp5pjaegku8qzaohp.streamlit.app/
 
-## The Math
+## Independence and complement rule
 This project uses the complement rule and independence to calculate the probability that at least one copy succeeds:
 
 P(at least one success) = 1 - (1 - p)^n

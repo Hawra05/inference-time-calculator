@@ -18,10 +18,9 @@ The calculator rounds up because you cannot run a fraction of a copy.
 
 ## How to Run Locally
 
-'''bash
 pip install -r requirements.txt
 python -m streamlit run app.py
-'''
+
 ## Tech Stack
 
 Python<br>

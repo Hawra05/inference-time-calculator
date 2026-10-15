@@ -17,10 +17,8 @@ n = ceil( ln(1 - T) / ln(1 - p) )
 The calculator rounds up because you cannot run a fraction of a copy.
 
 ## How to Run Locally
-1. Install the requirements:
+'''bash
    pip install -r requirements.txt
-
-2. Run the application:
    python -m streamlit run app.py
 
 ## Tech Stack
